@@ -1,0 +1,15 @@
+{
+  "require": {
+    "php": ">=5.4.0",
+    "ext-gmp": "*",
+    "ext-json": "*",
+
+    "react/zmq": "0.3",
+    "react/socket": "0.4",
+    "react/socket-client": "0.5",
+    "dunglas/php-torcontrol": "~v1.0.0",
+    "clue/socks-react": "~0.4",
+    "pimple/pimple": "^3.0",
+    "doctrine/cache": "~1.6"
+  }
+}
